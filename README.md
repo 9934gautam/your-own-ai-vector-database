@@ -1,3 +1,19 @@
+# My Project Setup & Development
+
+This repository is based on the original project by [perryvegehan](https://github.com/perryvegehan/Your-OWN-AI).
+
+I have independently set up and tested the project on Windows, configured the C++ build environment using GCC and integrated Ollama for local embeddings and LLM-based RAG.
+
+### My Work So Far
+- Configured and compiled the project using GCC on Windows.
+- Set up Ollama with `nomic-embed-text` and `llama3.2`.
+- Tested HNSW, KD-Tree, and Brute Force search.
+- Inserted custom documents and tested the RAG pipeline.
+
+**Note:** The original implementation and algorithms are credited to the original author. I will document my own modifications and improvements as development continues.
+
+---
+
 # VectorDB — Build a Vector Database from Scratch in C++
 
 A fully working **Vector Database** built from scratch in C++ with a web UI.  
