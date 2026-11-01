@@ -1,4 +1,12 @@
-# My Project Setup & Development
+## Application Screenshots
+
+### 1. Semantic Vector Search
+![HNSW Search Results](screenshots/search.png)
+
+### 2. Retrieval-Augmented Generation (RAG)
+![Local AI Answer with Retrieved Context](screenshots/rag.png)
+
+---# My Project Setup & Development
 
 This repository is based on the original project by [perryvegehan](https://github.com/perryvegehan/Your-OWN-AI).
 
